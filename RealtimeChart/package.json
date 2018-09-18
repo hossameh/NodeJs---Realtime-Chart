@@ -1,9 +1,22 @@
 {
   "name": "realtime-chart",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "RealtimeChart",
   "main": "server.js",
-  "author": {
-    "name": "hohassan"
-  }
+  "author": "hohassan",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hossameh/NodeJs---Realtime-Chart.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hossameh/NodeJs---Realtime-Chart/issues"
+  },
+  "homepage": "https://github.com/hossameh/NodeJs---Realtime-Chart#readme"
 }
