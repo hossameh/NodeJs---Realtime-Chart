@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "RealtimeChart", "RealtimeChart.njsproj", "{FD804961-E33E-481C-A79C-377B71F69355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD804961-E33E-481C-A79C-377B71F69355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD804961-E33E-481C-A79C-377B71F69355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD804961-E33E-481C-A79C-377B71F69355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD804961-E33E-481C-A79C-377B71F69355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A2E222B-5E5F-48D9-B10E-E23FA640F103}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+{
+  "name": "realtime-chart",
+  "version": "0.0.0",
+  "description": "RealtimeChart",
+  "main": "server.js",
+  "author": {
+    "name": "hohassan"
+  }
+}
